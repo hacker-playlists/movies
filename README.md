@@ -1,7 +1,7 @@
 
-# A crowdsourced list of hacker movies and tv shows
+# 🍿 A crowdsourced list of hacker movies and tv shows
 
-Have one to add? Submit a pull request
+🙋 Have one to add? Submit a pull request
 
 | Title      | Link |
 | ----------- | ----------- |
