@@ -7,9 +7,11 @@
 | ----------- | ----------- |
 | The Animatrix      | <https://en.wikipedia.org/wiki/The_Animatrix>     |
 | Antitrust   | <https://en.wikipedia.org/wiki/Antitrust_(film)>        |
+| Blackhat | <https://en.wikipedia.org/wiki/Blackhat_(film)> |
 | Die Hard 4.0      | <https://en.wikipedia.org/wiki/Live_Free_or_Die_Hard>       |
 | Ghost in the Shell   | <https://en.wikipedia.org/wiki/Ghost_in_the_Shell>        |
 | Hackers      | <https://en.wikipedia.org/wiki/Hackers_(film)>      |
+| Hacker (2016) | <https://en.wikipedia.org/wiki/Hacker_(film)> |
 | Halt and Catch Fire   | <https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_(TV_series)>        |
 | Johnny Mnemonic      | <https://en.wikipedia.org/wiki/Johnny_Mnemonic>       |
 | The Matrix   | <https://en.wikipedia.org/wiki/The_Matrix>        |
