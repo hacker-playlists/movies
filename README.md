@@ -14,6 +14,7 @@
 | Hacker (2016) | <https://en.wikipedia.org/wiki/Hacker_(film)> |
 | Halt and Catch Fire   | <https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_(TV_series)>        |
 | Johnny Mnemonic      | <https://en.wikipedia.org/wiki/Johnny_Mnemonic>       |
+| The KGB, the Computer and Me | <https://archive.org/details/The_KGB_The_Computer_and_Me_1990> |
 | The Matrix   | <https://en.wikipedia.org/wiki/The_Matrix>        |
 | Max Headroom hack      | <https://news.wttw.com/2017/11/21/30-years-later-notorious-max-headroom-incident-remains-mystery>       |
 | Mr Robot   | <https://en.wikipedia.org/wiki/Mr._Robot>        |
