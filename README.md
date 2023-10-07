@@ -1,5 +1,5 @@
 
-# 🍿 A crowdsourced list of hacker movies and tv shows
+# 🍿 A crowdsourced list of hacker movies, tv shows and podcasts
 
 🙋 Have one to add? Submit a pull request
 
@@ -8,6 +8,8 @@
 | The Animatrix      | <https://en.wikipedia.org/wiki/The_Animatrix>     |
 | Antitrust   | <https://en.wikipedia.org/wiki/Antitrust_(film)>        |
 | Blackhat | <https://en.wikipedia.org/wiki/Blackhat_(film)> |
+| CSI: Cyber | <https://en.wikipedia.org/wiki/CSI:_Cyber> |
+| Darknet Diaries Podcast | <https://en.wikipedia.org/wiki/Darknet_Diaries> | 
 | Die Hard 4.0      | <https://en.wikipedia.org/wiki/Live_Free_or_Die_Hard>       |
 | Ghost in the Shell   | <https://en.wikipedia.org/wiki/Ghost_in_the_Shell>        |
 | Hackers      | <https://en.wikipedia.org/wiki/Hackers_(film)>      |
