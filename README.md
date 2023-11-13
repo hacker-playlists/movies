@@ -7,6 +7,7 @@
 | ----------- | ----------- |
 | The Animatrix      | <https://en.wikipedia.org/wiki/The_Animatrix>     |
 | Antitrust   | <https://en.wikipedia.org/wiki/Antitrust_(film)>        |
+| BlackBerry | <https://www.blackberrymovie.com/> |
 | Blackhat | <https://en.wikipedia.org/wiki/Blackhat_(film)> |
 | CSI: Cyber | <https://en.wikipedia.org/wiki/CSI:_Cyber> |
 | Darknet Diaries Podcast | <https://en.wikipedia.org/wiki/Darknet_Diaries> | 
