@@ -7,6 +7,7 @@
 | ----------- | ----------- |
 | The Animatrix      | <https://en.wikipedia.org/wiki/The_Animatrix>     |
 | Antitrust   | <https://en.wikipedia.org/wiki/Antitrust_(film)>        |
+| Beverly Hills Cop | <https://en.wikipedia.org/wiki/Beverly_Hills_Cop> |
 | BlackBerry | <https://www.blackberrymovie.com/> |
 | Blackhat | <https://en.wikipedia.org/wiki/Blackhat_(film)> |
 | CSI: Cyber | <https://en.wikipedia.org/wiki/CSI:_Cyber> |
