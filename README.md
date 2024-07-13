@@ -14,6 +14,7 @@
 | Darknet Diaries Podcast | <https://en.wikipedia.org/wiki/Darknet_Diaries> | 
 | Die Hard 4.0      | <https://en.wikipedia.org/wiki/Live_Free_or_Die_Hard>       |
 | Enemy of the State | <https://en.wikipedia.org/wiki/Enemy_of_the_State_(film)> |
+| Fletch | <https://en.wikipedia.org/wiki/Fletch_(film)> |
 | Ghost in the Shell   | <https://en.wikipedia.org/wiki/Ghost_in_the_Shell>        |
 | Hackers      | <https://en.wikipedia.org/wiki/Hackers_(film)>      |
 | Hacker (2016) | <https://en.wikipedia.org/wiki/Hacker_(film)> |
