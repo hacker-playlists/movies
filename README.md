@@ -10,6 +10,7 @@
 | Beverly Hills Cop | <https://en.wikipedia.org/wiki/Beverly_Hills_Cop> |
 | BlackBerry | <https://www.blackberrymovie.com/> |
 | Blackhat | <https://en.wikipedia.org/wiki/Blackhat_(film)> |
+| Blade Runner | <https://en.wikipedia.org/wiki/Blade_Runner> |
 | CSI: Cyber | <https://en.wikipedia.org/wiki/CSI:_Cyber> |
 | Darknet Diaries Podcast | <https://en.wikipedia.org/wiki/Darknet_Diaries> | 
 | Die Hard 4.0      | <https://en.wikipedia.org/wiki/Live_Free_or_Die_Hard>       |
