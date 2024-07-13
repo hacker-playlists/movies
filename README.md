@@ -23,6 +23,7 @@
 | The Matrix   | <https://en.wikipedia.org/wiki/The_Matrix>        |
 | Max Headroom hack      | <https://news.wttw.com/2017/11/21/30-years-later-notorious-max-headroom-incident-remains-mystery>       |
 | Mr Robot   | <https://en.wikipedia.org/wiki/Mr._Robot>        |
+| NCIS hacking scene | <https://youtu.be/kl6rsi7BEtk?si=OYBhy3ie8VJeWJck> |
 | Pantheon | <https://www.imdb.com/title/tt11680642/?ref_=nm_flmg_t_1_act> |
 | Serial Experiments Lain | <https://en.wikipedia.org/wiki/Serial_Experiments_Lain>       |
 | Silicon Valley   | <https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)>        |
